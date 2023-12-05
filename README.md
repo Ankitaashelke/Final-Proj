@@ -15,13 +15,15 @@ Tools Used. List all the tools you used for this project, describing the purpose
 
 
 
-  
+
+    
 
 
 ***Solution:***
 
   
 
+   
 
  Abstract:  
  
@@ -41,29 +43,49 @@ Tools Used. List all the tools you used for this project, describing the purpose
 
 
 
+  
 
 
 Data Description: 
 
 
-The dataset represents information related to attributes. Below are the attributes included in the dataset:
-Index: Sequential number assigned to each entry.
-Order ID: Unique identifier for each order.
-Date: Date of the order placement.
-Status: Current status of the order.
-Fulfillment: Level of order fulfillment (e.g., pending, complete).
-Marketing Channel: The channel used for marketing the product.
-Style: The style or type of product.
-Category: Categorization of the product.
-Rating: Customer rating or feedback for the product.
-Courier Status: Status of the courier service used.
-Quantity: Number of items ordered.
-Amount: Total cost or amount for the order.
-Ship City: City where the order is to be shipped.
-Ship State: State where the order is to be shipped.
-Ship Postal Code: Postal code for the shipping address.
+The dataset represents information related to attributes. Below are the attributes included in the dataset:  
 
-Data Cleaning Process
+Index: Sequential number assigned to each entry.  
+
+Order ID: Unique identifier for each order.  
+
+Date: Date of the order placement.  
+
+Status: Current status of the order.  
+
+Fulfillment: Level of order fulfillment (e.g., pending, complete).  
+ 
+Marketing Channel: The channel used for marketing the product.  
+ 
+Style: The style or type of product.  
+
+Category: Categorization of the product.  
+
+Rating: Customer rating or feedback for the product.  
+
+Courier Status: Status of the courier service used.  
+
+Quantity: Number of items ordered.  
+
+Amount: Total cost or amount for the order.  
+
+Ship City: City where the order is to be shipped.  
+
+Ship State: State where the order is to be shipped.  
+
+Ship Postal Code: Postal code for the shipping address.  
+
+
+    
+
+Data Cleaning Process:  
+
 Initially, the dataset contained numerous columns and rows. 
 For cleaning, these processes were done: 
 Displayed the first few rows of unclean data to understand its structure.
@@ -79,10 +101,13 @@ Displayed visualizations derived from the cleaned dataset to showcase insights.
 
 
 
-Algorithm Description: 
+***Algorithm Description:***  
+
+  
 
 
-#importing 
+#importing  
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -92,7 +117,8 @@ import seaborn as sns
 
 
 #Setting the icon
-st.set_page_config(page_icon=":moneybag:")
+  
+  st.set_page_config(page_icon=":moneybag:")
 
 
 #  Calculating most sales in the city for a given product category
