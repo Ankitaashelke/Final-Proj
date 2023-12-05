@@ -1,4 +1,4 @@
-** Task: **
+**Task:**
 
 
 Streamlit Web App and Repository
