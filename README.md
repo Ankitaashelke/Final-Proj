@@ -1,4 +1,5 @@
-Task: 
+** Task: **
+
 
 Streamlit Web App and Repository
 At the end of the course, you will submit a URL to your project's GitHub repository, as well as a link to your web app. The GitHub repository should contain all code used in your project, as well as a README file which should include the following:
