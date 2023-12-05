@@ -1,7 +1,8 @@
 **Task:**
 
 
-Streamlit Web App and Repository
+Streamlit Web App and Repository  
+
 At the end of the course, you will submit a URL to your project's GitHub repository, as well as a link to your web app. The GitHub repository should contain all code used in your project, as well as a README file which should include the following:
 
 Abstract. Briefly summarize the main purpose of your project, and what came out of it.
@@ -14,14 +15,16 @@ Tools Used. List all the tools you used for this project, describing the purpose
 
 
 
+  
 
 
+***Solution:***
 
-Solution: 
+  
 
 
-
- Abstract:
+ Abstract:  
+ 
  
  This project revolves around creating a user-friendly web application using Streamlit, focusing on simplifying the interpretation of sales data to help in marketing.
  The primary objective is to understand sales analytics, finding top-selling products across different locations and months and using this information in the business.
